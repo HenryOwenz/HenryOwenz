@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @HenryOwenz
 - 👀 I’m interested in computer science in general
-- 🌱 I’m currently learning blockchain smart contract development
-- 💞️ I’m looking to collaborate on open source projects (excluding: Game Dev), atm paticularly more blockchain development.
 - 📫 You can reach me @ henryowenzdev@gmail.com
